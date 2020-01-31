@@ -2,12 +2,10 @@
 
   <PropertyGroup>
     <VersionPrefix>1.6.4</VersionPrefix>
-    <TargetFramework>netcoreapp1.6.4</TargetFramework>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
     <AssemblyName>ZeroFormatter.NETCore.Tests</AssemblyName>
     <PackageId>ZeroFormatter.NETCore.Tests</PackageId>
     <GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
-    <NetStandardImplicitPackageVersion>1.6.0</NetStandardImplicitPackageVersion>
-    <RuntimeFrameworkVersion>1.0.3</RuntimeFrameworkVersion>
     <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
     <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
     <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>

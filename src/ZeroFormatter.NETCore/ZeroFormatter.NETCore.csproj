@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <VersionPrefix>1.6.4</VersionPrefix>
-    <TargetFramework>netstandard1.6</TargetFramework>
+    <TargetFramework>netstandard2.0</TargetFramework>
     <DefineConstants>$(DefineConstants);NET_CORE</DefineConstants>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <AssemblyName>ZeroFormatter</AssemblyName>
